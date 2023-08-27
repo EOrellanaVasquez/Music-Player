@@ -1,0 +1,28 @@
+* {
+    background-color: white;
+}
+
+.App {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+    color: black;
+    height: 100vh;
+    padding-top: 10px;
+}
+
+.row-tracks {
+    margin: 4px;
+    display: flex;
+    flex-wrap: wrap;
+    align-items: start;
+    justify-content: center;
+}
+
+.row-buttons {
+    margin: 4px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
